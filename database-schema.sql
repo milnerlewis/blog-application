@@ -1,8 +1,8 @@
---database schema for the notes application
+--database schema for the blog application
 --going to be very simplistic - a couple of tables
 
 --database
-CREATE DATABASE notesapp;
+CREATE DATABASE blogapp;
 
 --users table
 CREATE TABLE users (
